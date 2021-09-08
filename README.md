@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hiramrose
 - 👀 I’m interested in mobile and web development
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on startup projects
 - 📫 How to reach me: hiram.rosinski@gmail.com
 
